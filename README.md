@@ -40,7 +40,7 @@ This project was built as part of a full-stack developer assignment.
     *   State Management: **React Context API** (`AuthContext`)
     *   Routing: **React Router DOM** (`v6`)
     *   API Calls: **Axios** (with interceptors for JWT)
-    *   Styling: **Inline Styles / Basic CSS** *(Specify if you used MUI, Bootstrap, Tailwind etc.)*
+    *   Styling: **Inline Styles / Basic CSS** *(Bootstrap)*
     *   Build Tool: **Vite** *(or Create React App)*
 *   **Database:**
     *   **MongoDB**
@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
     git clone <your-repository-url>
     cd product-management-app
     ```
-    *(If cloning isn't applicable, mention unzipping the provided file)*
+    
 
 2.  **Backend Setup:**
     *   Navigate to the backend directory:
