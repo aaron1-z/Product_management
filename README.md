@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/aaron1-z/Product_management>
     cd product-management-app
     ```
     
