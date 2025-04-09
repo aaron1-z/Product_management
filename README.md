@@ -122,3 +122,28 @@ Before you begin, ensure you have the following installed:
 3.  **Access the Application:**
     *   Open your web browser and navigate to `http://localhost:5173` (or the port specified by the frontend server).
 
+**On my local system**
+
+![WhatsApp Image 2025-04-09 at 05 46 34_81937662](https://github.com/user-attachments/assets/67c6bf5d-7f01-4641-911f-31d4e35c5d2f)
+
+![WhatsApp Image 2025-04-09 at 06 12 50_ef24de2b](https://github.com/user-attachments/assets/933c980a-ce28-47ea-bfa6-1c0c0a6819d6)
+
+![WhatsApp Image 2025-04-09 at 06 12 26_b1ee394c](https://github.com/user-attachments/assets/e1a799b5-93fb-4a6c-8e2f-c2738793d1a8)
+
+![WhatsApp Image 2025-04-09 at 06 13 19_d400596e](https://github.com/user-attachments/assets/7370c878-7336-4841-b2ea-c784f0f9faca)
+
+![WhatsApp Image 2025-04-09 at 06 14 46_9574b173](https://github.com/user-attachments/assets/6d1f1c7b-41cd-4c5b-880e-6cdae1908251)
+
+![WhatsApp Image 2025-04-09 at 06 14 20_9c10431e](https://github.com/user-attachments/assets/639db402-153c-416e-b40d-3f54d2c77d4f)
+
+![WhatsApp Image 2025-04-09 at 06 14 01_f1f3c613](https://github.com/user-attachments/assets/ea0502db-9cd0-45be-be24-df763adda6f4)
+
+
+
+
+
+
+
+
+
+
